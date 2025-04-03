@@ -4,7 +4,7 @@
 Our calculator considers panel types, dimensions, installation requirements, and more to provide you with accurate pricing and specifications. This tool is perfect for **event planners, businesses, and venues** looking to invest in **LED display solutions**.
 
 ## 🚀 Live Demo  
-🔗 [Try the LED Wall Cost Calculator](https://ledvideowallhub.com/)  
+🔗 [Try the LED Wall Cost Calculator](https://choyon-dev.github.io/led-wall-cost-calculator-simple/)  
 
 ---
 
@@ -31,11 +31,6 @@ Our calculator considers panel types, dimensions, installation requirements, and
 
 ---
 
-## 📷 Preview  
-![LED Wall Cost Calculator Screenshot](URL_TO_SCREENSHOT)
-
----
-
 ## 🛠️ How It Works  
 
 1. **Choose Wall Configuration** – Select **Indoor** or **Outdoor** installation.  
@@ -50,15 +45,12 @@ Our calculator considers panel types, dimensions, installation requirements, and
 ## 👨‍💻 Developers  
 
 - **Fajle Rabbi Choyon** – [Website](https://fajlerabbichoyon.com) | [GitHub](https://github.com/fajlerabbichoyon) | [LinkedIn](https://linkedin.com/in/fajlerabbichoyon)  
-- **Your Other Team Members (If Any)**  
 
 ---
 
 ## 🏗️ Technologies Used  
 
 - **HTML, CSS, JavaScript**  
-- **PHP (for backend calculations, if applicable)**  
-- **WordPress or Custom Framework** (if applicable)  
 
 ---
 
